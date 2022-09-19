@@ -21,5 +21,6 @@ int main()
         atlag = b[i] + atlag;
     }
     std::cout << "Atlag: " << atlag/N_ELEMENTS << std::endl;
+    std::cout << "Udvozletem";
     return 0;
 }
