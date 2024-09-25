@@ -1,6 +1,8 @@
 #include <iostream>
 
+
 int N_ELEMENTS = 100;
+
 
 int main()
 {
